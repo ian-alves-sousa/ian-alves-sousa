@@ -1,7 +1,7 @@
 ## Olá, eu sou o Ian Alves Sousa.
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1676374716)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ian-alves-sousa)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-alves-sousa/)
 [![INSTA](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ianzinho_alves/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianzinhoalves&show_icons=true&theme=gruvbox)
