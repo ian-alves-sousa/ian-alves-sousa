@@ -5,10 +5,10 @@
 [![INSTA](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ianzinho_alves/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ianzinhoalves&show_icons=true&theme=gruvbox" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ian-alves-sousa&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianzinhoalves&layout=compact&theme=gruvbox" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-alves-sousa&layout=compact&theme=gruvbox" />
 </a>
 
 
